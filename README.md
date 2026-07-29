@@ -321,6 +321,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI.
 - [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 - [Playground](https://playground.com/) - Playground is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
+- [GPT Image 2](https://gptimage2.asia/) - Generate and edit marketing visuals, social graphics, ecommerce product images, and branded assets from text prompts.
 - [modyfi](https://www.modyfi.com/) - A browser-based design platform with AI-powered image generation, animation, and real-time collaboration.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [Photo AI](https://photoai.com/ai-avatars) - Create your own AI-generated avatars.
